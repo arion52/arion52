@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on web development and Machine Learning or ds and algo projects
 - 📫 How to reach me: On discord **Kade#4264** and Linkedin (given below)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I play chess
+- ⚡ Fun fact: I play chess and i love editing
 
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"/>
