@@ -30,6 +30,10 @@
 
 <h2 align='center'>Socials</h2>
 <div id="socials">
-  <a href='https://www.linkedin.com/in/bargav-krishna-260b16236/'><img src="https://i.imgur.com/PeDeAbI.png" width="100"/></a>
-  <a href='https://i.imgur.com/IEAW9W1.png'><img src="https://i.imgur.com/IEAW9W1.png" width="200"/></a>
+    <div>
+        <a href='https://www.linkedin.com/in/bargav-krishna-260b16236/'><img src="https://i.imgur.com/PeDeAbI.png" width="100"/></a>
+    </div>
+    <div>
+        <a href='https://i.imgur.com/IEAW9W1.png'><img src="https://i.imgur.com/IEAW9W1.png" width="200"/></a>
+    </div>
 </div>
