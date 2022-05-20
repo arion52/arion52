@@ -22,4 +22,6 @@
 ---
 
 <h2 align='center'>My projects</h2>
+
 - Developer of <a href='https://bodhimaram.in/'>Bodhi Maram</a>
+- Blogs at <a href='https://geekalgo.com/>Geek Algo</a>
