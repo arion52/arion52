@@ -1,7 +1,7 @@
 <h3 align='center'> Hi there 👋 welcome to my profile</h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="100"/>
 </div>
 
 - 🌱 I’m currently learning Flutter
