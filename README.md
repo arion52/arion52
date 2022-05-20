@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Kade-245/Kade-245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Android or web development
+- 🤔 I’m looking for help with Any tech issues
+- 💬 Ask me about Tech
+- 📫 How to reach me: On discord **Kade#4264**
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a tech guy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
