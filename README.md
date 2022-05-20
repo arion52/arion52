@@ -38,7 +38,7 @@
 
 <h2 align='center'>🛠️Languages and tools I know🛠️</h2>
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50"/>
