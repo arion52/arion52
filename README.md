@@ -46,11 +46,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/>
 </div>
