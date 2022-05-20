@@ -1,5 +1,5 @@
 <h3 align='center'> Hi there 👋 welcome to my profile</h3>
-<p align='center> I'm **@Kade** 😄 </p>
+<p align='center> I am **@Kade** 😄 i am a front-end web developer and a fullstack mobile developer.Also an ML developer</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -15,5 +15,7 @@
 - ⚡ Fun fact: I play chess
 
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" width="250" />
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif"/>
 </div>
+
+---
