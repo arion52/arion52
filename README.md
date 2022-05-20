@@ -1,5 +1,4 @@
 <h3 align='center'> Hi there 👋 welcome to my profile</h3>
-<p align='center> I am **@Kade** 😄 i am a front-end web developer and a fullstack mobile developer.Also an ML developer</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -7,6 +6,8 @@
 
 ---
 <h2 align='center'>About me </h2>
+
+<p align='center> I am **@Kade** 😄 i am a front-end web developer and a fullstack mobile developer.Also an ML developer</p>
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on web development and Machine Learning or ds and algo projects
