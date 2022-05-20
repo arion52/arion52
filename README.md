@@ -22,4 +22,4 @@
 ---
 
 <h2 align='center'>My projects</h2>
--Developer of <a href='https://bodhimaram.in/'>Bodhi Maram</a>
+- Developer of <a href='https://bodhimaram.in/'>Bodhi Maram</a>
