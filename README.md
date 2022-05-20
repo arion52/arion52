@@ -33,3 +33,27 @@
     <a href='https://www.linkedin.com/in/bargav-krishna-260b16236/'><img src="https://i.imgur.com/46aGX7K.png" width="100"/></a>
 
 </div>
+
+---
+
+<h2 align='center'>Languages and tools know</h2>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" width="100"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="100"/>
+<img src="" width="100"/>
+<img src="" width="100"/>
+<img src="" width="100"/>
+<img src="" width="100"/>
+<img src="" width="100"/>
