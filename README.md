@@ -51,6 +51,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line.svg" width="50"/>
+<img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle.png" width="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/>
 </div>
