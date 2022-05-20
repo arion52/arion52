@@ -38,19 +38,37 @@
 
 <h2 align='center'>🛠️Languages and tools I know🛠️</h2>
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="50"/>
-<img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle.png" width="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="50"/>
+
+  <img src="https://w7.pngwing.com/pngs/56/909/png-transparent-tensorflow-deep-learning-keras-machine-learning-caffe-thumbtack-miscellaneous-angle-rectangle.png" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="50"/>
+
 </div>
+
