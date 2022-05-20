@@ -30,5 +30,5 @@
 
 <h2 align='center'>Socials</h2>
 <div id="socials">
-  <img src="https://i.imgur.com/PeDeAbI.png" width="100"/>
+  <a href='https://www.linkedin.com/in/bargav-krishna-260b16236/'><img src="https://i.imgur.com/PeDeAbI.png" width="100"/></a>
 </div>
