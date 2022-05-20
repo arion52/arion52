@@ -25,3 +25,10 @@
 
 - Developer of <a href='https://bodhimaram.in/'>Bodhi Maram</a>
 - Blogs at <a href='https://geekalgo.com/'>Geek Algo</a>
+
+---
+
+<h2 align='center'>Socials</h2>
+<div id="socials">
+  <img src="https://imgur.com/a/KocjOqX" width="100"/>
+</div>
