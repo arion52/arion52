@@ -37,6 +37,7 @@
 ---
 
 <h2 align='center'>🛠️Languages and tools I know🛠️</h2>
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" width="100"/>
@@ -52,3 +53,4 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" width="100"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="100"/>
+</div>
