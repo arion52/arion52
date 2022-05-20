@@ -1,5 +1,5 @@
 <h3 align='center'> Hi there 👋 welcome to my profile</h3>
-I'm Kade 😄
+I'm **@Kade** 😄
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
