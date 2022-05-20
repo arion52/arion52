@@ -30,5 +30,5 @@
 
 <h2 align='center'>Socials</h2>
 <div id="socials">
-  <img src="https://i.imgur.com/z0sIIrj.png" width="100"/>
+  <img src="https://i.imgur.com/PeDeAbI.png" width="100"/>
 </div>
