@@ -7,7 +7,7 @@
 ---
 <h2 align='center'>About me </h2>
 
-<p align='center> I am **@Kade** 😄 i am a front-end web developer and a fullstack mobile developer.Also an ML developer</p>
+ I am **@Kade** 😄 i am a front-end web developer and a fullstack mobile developer.Also an ML developer
 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on web development and Machine Learning or ds and algo projects
