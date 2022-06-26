@@ -28,12 +28,6 @@
 
 ---
 
-<h2 align='center'>🌐Socials🌐</h2>
-<div id="socials" align='justify'>
-    <a href='https://www.linkedin.com/in/bargav-krishna-260b16236/'><img src="https://i.imgur.com/46aGX7K.png" width="100"/></a>
-
-</div>
-
 ---
 
 <h2 align='center'>🛠️Languages and tools I know🛠️</h2>
