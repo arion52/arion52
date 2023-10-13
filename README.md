@@ -1,6 +1,6 @@
 ### **Welcome to otakuCoderr's GitHub Dojo! 🌟**
 
-![Anime Banner](https://media.tenor.com/xCPROEs0oisAAAAd/nicevagg-hypmic.gif)
+![Anime Banner](https://media.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif)
 
 ### About Me 💫
 
