@@ -1,6 +1,6 @@
 ### **Welcome to otakuCoderr's GitHub Dojo! 🌟**
 
-![Anime Banner](https://animesher.com/orig/1/181/1812/18125/animesher.com_screen-capture-retro-anime-anime-gif-1812596.gif)
+![Anime Banner](https://media.tenor.com/xCPROEs0oisAAAAd/nicevagg-hypmic.gif)
 
 ### About Me 💫
 
