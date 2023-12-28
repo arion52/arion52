@@ -40,7 +40,4 @@ Currently mastering:
 
 ### 📮 Raven Mail 💌
 
-- Send a scroll: thekadehere@gmail.com
-- Crystal Ball: [Your Personal Website](https://www.yourwebsite.com)
-
 ### Arigato Gozaimasu for visiting! May your code be as powerful as a dragon's roar! 🐉🌌
