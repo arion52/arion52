@@ -30,7 +30,7 @@ Konnichiwa! I'm otakuCoderr, a web, mobile, ML sorcerer with a passion for weavi
 
 Currently mastering:
 
-- React Native
+- Machine Learning
 
 ### 🎮 Quest Log 🏹
 
