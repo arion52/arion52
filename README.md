@@ -1,10 +1,10 @@
-### **Welcome to otakuCoderr's GitHub Dojo! 🌟**
+### **Welcome to Arion's GitHub Dojo! 🌟**
 
 ![Anime Banner](https://media.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif)
 
 ### About Me 💫
 
-Konnichiwa! I'm otakuCoderr, a web, mobile, ML sorcerer with a passion for weaving code incantations. When I'm not conjuring software spells, you can find me exploring the vast landscapes of chess and music.
+Konnichiwa! I'm Arion, a web, mobile, ML sorcerer with a passion for weaving code incantations. When I'm not conjuring software spells, you can find me exploring the vast landscapes of chess and music.
 
 ### 🌌 Jutsu Arsenal 🗡️
 
