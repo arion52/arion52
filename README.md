@@ -34,7 +34,7 @@ Currently mastering:
 
 ### 🎮 Quest Log 🏹
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=otakuCoderr&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otakuCoderr&show_icons=true&theme=tokyonight&layout=donut&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arion52&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arion52&show_icons=true&theme=tokyonight&layout=donut&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Arigato Gozaimasu for visiting! May your code be as powerful as a dragon's roar! 🐉🌌
