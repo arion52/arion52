@@ -39,7 +39,7 @@ When I’m not debugging or designing, I drift between F1 race weekends, cars, t
 ---
 
 Right now, I’m also working on something called **lifeXP**—a quiet little attempt to make personal growth more intentional, one experience at a time.
-
 Thanks for being here. Take care. Keep building.
+
 ![Banner](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHF6cm94dmJhajV5NjFiM2pvcWc1YTZxenp5N3owNmdobHNwcTF0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif)
 
